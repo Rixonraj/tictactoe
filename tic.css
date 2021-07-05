@@ -1,0 +1,94 @@
+.ticbox1{
+display: flex;
+height: 100px;
+width: 300px;
+background-color: aquamarine;
+}
+.ticbox2{
+    display: flex;
+    height: 100px;
+    width: 300px;
+background-color: aquamarine;
+}
+.ticbox3{
+    display: flex;
+    width: 300px;
+    height: 100px;
+background-color: aquamarine;
+}
+#box1{
+   
+    border-style: solid;
+    width: 100px;
+    text-align: center;
+    font-size: 50px;
+    
+}
+#box2{
+    border-left: 0px;
+    border-right: 0px;
+    border-style: solid;
+    width: 100px;
+    text-align: center;
+    font-size: 50px;
+    
+}
+#box3{
+    
+    border-style: solid;
+    width: 100px;
+    text-align: center;
+    font-size: 50px;
+}
+#box4{
+    border-top: 0px;
+    border-bottom: 0px;
+    border-style: solid;
+    width: 100px;
+    text-align: center;
+    font-size: 50px;
+    
+}
+#box5{
+    border-top: 0px;
+    border-bottom: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-style: solid;
+    width: 100px;
+    text-align: center;
+    font-size: 50px;
+    
+}
+#box6{
+    border-top: 0px;
+    border-bottom: 0px;
+    border-style: solid;
+    width: 100px;
+    text-align: center;
+    font-size: 50px;
+}
+#box7{
+   
+    border-style: solid;
+    width: 100px;
+    text-align: center;
+    font-size: 50px;
+    
+}
+#box8{
+    border-left: 0px;
+    border-right: 0px;
+    border-style: solid;
+    width: 100px;
+    text-align: center;
+    font-size: 50px;
+    
+}
+#box9{
+    
+    border-style: solid;
+    width: 100px;
+    text-align: center;
+    font-size: 50px;
+}
